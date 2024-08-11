@@ -1,6 +1,7 @@
 # Java-employee-payroll
 
 # description
-A webpage that is made for employers to keep track of how much pay their employees are getting.
-
+The assignment was to make a employee payroll tracker. A site that is made for managers to track the amount of pay their employees get. 
 ## usage
+Github : 
+Live : 
